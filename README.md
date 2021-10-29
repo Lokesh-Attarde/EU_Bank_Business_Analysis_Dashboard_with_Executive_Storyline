@@ -41,8 +41,11 @@ Out of the 11 features given in the datasets 03 are Continuous and 08 (including
 For more details, please go through the Demo given below -
 
 # 🎯 EU Bank Business Analysis Dashboard -
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/84115928/139260751-f1d00916-fa08-461c-8017-047eeb46bf35.png">
+</p>
+
 - 🌱 You can have a look on EU Bank Business Analysis Dashboard [here.](https://lnkd.in/erHSEpr)
-![Capture](https://user-images.githubusercontent.com/84115928/139260751-f1d00916-fa08-461c-8017-047eeb46bf35.png)
 
 # 🏽‍ Conclusions
 * United Kingdom has the highest Number of EU Customers i.e. 1,773. However, Belgium has the least Number of EU Customers i.e. 96 in terms of Global Clientele.
